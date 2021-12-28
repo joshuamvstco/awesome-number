@@ -1,0 +1,27 @@
+.number-wrapper {
+  height: 50%;
+  background: #1b1c22;
+}
+
+.logo-wrapper {
+  padding: 40px;
+}
+
+.input-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 175px;
+  line-height: 1px;
+  color: #f5f6f8;
+}
+
+.input-field {
+  border-radius: 8px;
+  height: 40px;
+  padding: 16px;
+  width: 30%;
+  border-color: #aeaeae;
+}
