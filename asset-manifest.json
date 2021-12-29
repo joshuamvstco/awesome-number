@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/awesome-number/static/css/main.111a9878.css",
+    "main.js": "/awesome-number/static/js/main.6c32d3c4.js",
+    "static/js/787.14828c23.chunk.js": "/awesome-number/static/js/787.14828c23.chunk.js",
+    "static/media/logo.svg": "/awesome-number/static/media/logo.198751f1da9587f4125b7be65dafbdb8.svg",
+    "index.html": "/awesome-number/index.html",
+    "main.111a9878.css.map": "/awesome-number/static/css/main.111a9878.css.map",
+    "main.6c32d3c4.js.map": "/awesome-number/static/js/main.6c32d3c4.js.map",
+    "787.14828c23.chunk.js.map": "/awesome-number/static/js/787.14828c23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.111a9878.css",
+    "static/js/main.6c32d3c4.js"
+  ]
+}
