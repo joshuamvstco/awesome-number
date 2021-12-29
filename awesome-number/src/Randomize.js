@@ -23,7 +23,7 @@ class Randomize extends React.Component {
             className='randomButton' 
             onClick={this.handleClick.bind(this)}
             >
-                Random 👋
+                Random 🔀
             </button>
         <div style={{color: '#F0F0F0'}}>
             {this.state.random}
